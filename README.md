@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jannick Brech!
 
-![Welcome Banner](https://user-images.githubusercontent.com/placeholder/banner-image.png)
+![Welcome Banner](/images/welcome.png)
 
 ## About Me
 
@@ -46,7 +46,7 @@ Hello! My name is **Jannick Brech**, I’m 21 years old, and I’m currently stu
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/cool-image.png" alt="Web Development Banner" width="600px"/>
+  ![Welcome Banner](/images/webdev.png)
 </p>
 
 ✨ *Thank you for checking out my profile! Let’s create something amazing together.* ✨
