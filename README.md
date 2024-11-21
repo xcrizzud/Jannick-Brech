@@ -25,9 +25,9 @@ Hello! My name is **Jannick Brech**, I’m 21 years old, and I’m currently stu
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
-![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-Badge-blue?style=for-the-badge&logo=tailwind-css)
+[![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-Badge-blue?style=for-the-badge&logo=tailwind-css)
 ![SQL Challenge Badge](https://img.shields.io/badge/SQL-Challenge_Beginner-success?style=for-the-badge&logo=mysql)
-
+](https://img.shields.io/badge/SQL-Challenge_Beginner-success?style=for-the-badge&logo=mysql)
 ---
 
 ## 📈 GitHub Stats
