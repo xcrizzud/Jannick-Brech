@@ -31,8 +31,8 @@ Hello! My name is **Jannick Brech**, I’m 21 years old, and I’m currently stu
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jannickbrech&show_icons=true&theme=radical" alt="Jannick's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jannickbrech&theme=radical" alt="Jannick's GitHub Streaks" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xcrizzud&show_icons=true&theme=radical" alt="Jannick's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xcrizzud&theme=radical" alt="Jannick's GitHub Streaks" />
 </p>
 
 ---
@@ -41,7 +41,7 @@ Hello! My name is **Jannick Brech**, I’m 21 years old, and I’m currently stu
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jannickbrech)  
 - 🌟 [Portfolio Website](https://jannickbrech.dev)  
-- 📫 Reach out: **jannick.brech@example.com**
+- 📫 Reach out: **jannickbrech.work@gmail.com**
 
 ---
 
