@@ -45,8 +45,8 @@ Hello! My name is **Jannick Brech**, I’m 21 years old, and I’m currently stu
 
 ---
 
-<p align="center">
+<img align="center">
   ![Welcome Banner](/images/webdev.png)
-</p>
+</img>
 
 ✨ *Thank you for checking out my profile! Let’s create something amazing together.* ✨
