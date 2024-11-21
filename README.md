@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello! My name is **Jannick Brech**, I’m 21 years old, and I’m currently studying **Computer Science**. I’m passionate about **Web Development** and **Design**, where I enjoy creating innovative and functional solutions. Exploring new technologies and working on exciting projects is what drives me every day.
+Hello! My name is **Jannick Brech**, I’m 21 years old, and I’m currently studying **Computer Science**. I’m passionate about **Web Development / FUll Stack Development** and **Design**, where I enjoy creating innovative and functional solutions. Exploring new technologies and working on exciting projects is what drives me every day.
 
 ---
 
